@@ -12,3 +12,7 @@ In supervised learning, algorithms learn from labeled data. After understanding 
 Include but not limited to:
 * Decision Trees
 * Random forest( Many Decision Trees put together to compete as Ensemble Learnig)
+* Naive Bayes
+* K-Nearest Neighbours
+* Support Vector Macines
+  
