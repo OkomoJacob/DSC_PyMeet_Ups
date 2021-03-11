@@ -10,4 +10,5 @@ This involves Machine Learning as either [Supervised](https://builtin.com/data-s
 In supervised learning, algorithms learn from labeled data. After understanding the data, the algorithm determines which label should be given to new data by associating patterns to the unlabeled new data.
 
 Include but not limited to:
-* 
+* Decision Trees
+* Random forest( Many Decision Trees put together to compete as Ensemble Learnig)
