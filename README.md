@@ -1,4 +1,4 @@
-## Developer Student Club Python Meet Ups
+## Developer Student Club Data Science Meet Ups
 A repository archiving my Developer Student Club contents, other python related meet ups that were shared by the tutors.
 
 #### Abstract
